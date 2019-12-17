@@ -1,0 +1,39 @@
+body {
+    background-color: inherit;
+}
+
+h1 {
+    color: darkgray;
+}
+
+p {
+    color: darkgray;
+}
+
+h2 {
+    color: darkgray;
+}
+
+h3 {
+    font-family: arial;
+    color: #41FFA7;
+}
+
+#output{
+    font-family: arial;
+    color: #e930e9;
+}
+.c1{
+    font-family: arial;
+    color: #ffffff;
+}
+
+.c2{
+    font-family: arial;
+    color: #ffffff;
+}
+
+.c3{
+    font-family: arial;
+    color: #ffffff;
+}
