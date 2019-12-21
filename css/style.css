@@ -15,7 +15,7 @@ h2 {
 }
 
 h3 {
-    font-family: arial;
+    font-family: Comic sans MS;
     color: #41FFA7;
 }
 
@@ -70,4 +70,7 @@ h3 {
   border-radius: 15px 15px 15px;
   padding: 15px;
   border:1px solid;
+}
+#place{
+  font-family:Comic sans MS;
 }
