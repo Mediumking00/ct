@@ -11,7 +11,7 @@ p {
 }
 
 h2 {
-    color: darkgray;
+    color: black;
 }
 
 h3 {
@@ -36,4 +36,38 @@ h3 {
 .c3{
     font-family: arial;
     color: #ffffff;
+}
+#conner1{
+  border-radius: 15px 15px 15px;
+  background:cornsilk;
+  padding: 10px;
+  width: 100px;
+  height: 30px;
+
+}
+#conner2{
+  border-radius: 15px 15px 15px;
+  background:cornsilk;
+  padding: 10px;
+  width: 100px;
+  height: 30px;
+
+}
+#conner3{
+  border-radius: 15px 15px 15px;
+  background:cornsilk;
+  padding: 10px;
+  width: 100px;
+  height: 30px;
+
+}
+#box1{
+  border-radius: 15px 15px 15px;
+  padding: 15px;
+  border:1px solid;
+}
+#box2{
+  border-radius: 15px 15px 15px;
+  padding: 15px;
+  border:1px solid;
 }
