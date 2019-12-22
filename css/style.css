@@ -11,6 +11,7 @@ p {
 }
 
 h2 {
+    font-family: Comic sans MS;
     color: black;
 }
 
@@ -73,4 +74,13 @@ h3 {
 }
 #place{
   font-family:Comic sans MS;
+}
+#gallery{
+  border-radius: 15px 15px 15px;
+  padding: 15px;
+  border:1px solid;
+}
+#head{
+  font-family: Comic sans MS;
+  color: #41FFA7
 }
