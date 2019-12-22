@@ -1,64 +1,31 @@
 body {
-    background-color: inherit;
+    background-color: #0F4C81;
 }
 
 h1 {
-    color: darkgray;
+    font-family: Comic sans MS;
+    color: whitesmoke;
 }
 
 p {
-    color: darkgray;
+    font-family: Comic sans MS;
+    color: silver;
 }
 
 h2 {
     font-family: Comic sans MS;
-    color: black;
+    color: whitesmoke;
 }
 
 h3 {
     font-family: Comic sans MS;
-    color: #41FFA7;
+    color: whitesmoke;
 }
-
-#output{
-    font-family: arial;
-    color: #e930e9;
-}
-.c1{
-    font-family: arial;
-    color: #ffffff;
-}
-
-.c2{
-    font-family: arial;
-    color: #ffffff;
-}
-
-.c3{
-    font-family: arial;
-    color: #ffffff;
-}
-#conner1{
-  border-radius: 15px 15px 15px;
-  background:cornsilk;
+#conner{
+  border-radius: 12px 20px 15px;
+  background:aliceblue;
   padding: 10px;
-  width: 100px;
-  height: 30px;
-
-}
-#conner2{
-  border-radius: 15px 15px 15px;
-  background:cornsilk;
-  padding: 10px;
-  width: 100px;
-  height: 30px;
-
-}
-#conner3{
-  border-radius: 15px 15px 15px;
-  background:cornsilk;
-  padding: 10px;
-  width: 100px;
+  width: 200px;
   height: 30px;
 
 }
@@ -66,21 +33,26 @@ h3 {
   border-radius: 15px 15px 15px;
   padding: 15px;
   border:1px solid;
+  color:  aliceblue;
 }
-#box2{
-  border-radius: 15px 15px 15px;
-  padding: 15px;
-  border:1px solid;
-}
+
 #place{
   font-family:Comic sans MS;
 }
-#gallery{
-  border-radius: 15px 15px 15px;
-  padding: 15px;
-  border:1px solid;
-}
 #head{
   font-family: Comic sans MS;
-  color: #41FFA7
+  color:aliceblue;
+}
+#space{
+  border-radius: 8px 10px 20px ;
+}
+#button{
+  border-radius: 8px 8px 8px ;
+}
+#link{
+  color:aliceblue;
+}
+#end{
+  font-family: Comic sans MS;
+  color:aliceblue;
 }
